@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggdag"]
+	path = ggdag
+	url = https://github.com/r-causal/ggdag
+	shallow = true
+	registered = true
+[submodule "tidysmd"]
+	path = tidysmd
+	url = https://github.com/r-causal/tidysmd
+	shallow = true
+	registered = true
