@@ -13,3 +13,8 @@
 	url = https://github.com/r-causal/tidysmd
 	shallow = true
 	registered = true
+[submodule "tipr"]
+	path = tipr
+	url = https://github.com/r-causal/tipr
+	shallow = true
+	registered = true
