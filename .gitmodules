@@ -8,6 +8,11 @@
 	url = https://github.com/r-causal/ggdag
 	shallow = true
 	registered = true
+[submodule "quartets"]
+	path = quartets
+	url = https://github.com/r-causal/quartets
+	shallow = true
+	registered = true
 [submodule "tidysmd"]
 	path = tidysmd
 	url = https://github.com/r-causal/tidysmd
