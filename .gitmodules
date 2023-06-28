@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/r-causal/ggdag
-	shallow = true
-	registered = true
 [submodule "halfmoon"]
 	path = halfmoon
 	url = https://github.com/r-causal/halfmoon
-	shallow = true
-	registered = true
 [submodule "quartets"]
 	path = quartets
 	url = https://github.com/r-causal/quartets
-	shallow = true
-	registered = true
 [submodule "tidysmd"]
 	path = tidysmd
 	url = https://github.com/r-causal/tidysmd
-	shallow = true
-	registered = true
 [submodule "tipr"]
 	path = tipr
 	url = https://github.com/r-causal/tipr
-	shallow = true
-	registered = true
