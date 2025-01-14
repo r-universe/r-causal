@@ -8,6 +8,10 @@
 [submodule "halfmoon"]
 	path = halfmoon
 	url = https://github.com/r-causal/halfmoon
+[submodule "propensity"]
+	path = propensity
+	url = https://github.com/r-causal/propensity
+	registered = false
 [submodule "quartets"]
 	path = quartets
 	url = https://github.com/r-causal/quartets
