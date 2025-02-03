@@ -2,9 +2,17 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cardx"]
+	path = cardx
+	url = https://github.com/insightsengineering/cardx
+	registered = false
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/r-causal/ggdag
+[submodule "gtsummary"]
+	path = gtsummary
+	url = https://github.com/ddsjoberg/gtsummary
+	registered = false
 [submodule "halfmoon"]
 	path = halfmoon
 	url = https://github.com/r-causal/halfmoon

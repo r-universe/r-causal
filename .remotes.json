@@ -1,5 +1,17 @@
 [
   {
+    "package": "cardx",
+    "url": "https://github.com/insightsengineering/cardx",
+    "via": ["halfmoon", "gtsummary"],
+    "from": "halfmoon"
+  },
+  {
+    "package": "gtsummary",
+    "url": "https://github.com/ddsjoberg/gtsummary",
+    "via": ["halfmoon"],
+    "from": "halfmoon"
+  },
+  {
     "package": "propensity",
     "url": "https://github.com/r-causal/propensity",
     "via": ["tidysmd"],
