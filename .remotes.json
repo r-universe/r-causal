@@ -1,5 +1,11 @@
 [
   {
+    "package": "causalgenerics",
+    "url": "https://github.com/r-causal/causalgenerics",
+    "via": ["halfmoon"],
+    "from": "halfmoon"
+  },
+  {
     "package": "ggarrow",
     "url": "https://github.com/teunbrand/ggarrow",
     "via": ["ggdag"],
