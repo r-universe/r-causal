@@ -17,10 +17,6 @@
 [submodule "deli"]
 	path = deli
 	url = https://github.com/r-causal/deli
-[submodule "ggarrow"]
-	path = ggarrow
-	url = https://github.com/teunbrand/ggarrow
-	registered = false
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/r-causal/ggdag
