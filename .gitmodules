@@ -1,15 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/r-causal/r-causal.r-universe.dev
 	branch = HEAD
+[submodule "balancing"]
+	path = balancing
+	url = https://github.com/r-causal/balancing
 [submodule "causalgenerics"]
 	path = causalgenerics
 	url = https://github.com/r-causal/causalgenerics
-	registered = false
+[submodule "causalpie"]
+	path = causalpie
+	url = https://github.com/r-causal/causalpie
+[submodule "causalworkshop"]
+	path = causalworkshop
+	url = https://github.com/r-causal/causalworkshop
 [submodule "deli"]
 	path = deli
 	url = https://github.com/r-causal/deli
-	registered = false
 [submodule "ggarrow"]
 	path = ggarrow
 	url = https://github.com/teunbrand/ggarrow
