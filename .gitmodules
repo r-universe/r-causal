@@ -6,6 +6,10 @@
 	path = causalgenerics
 	url = https://github.com/r-causal/causalgenerics
 	registered = false
+[submodule "deli"]
+	path = deli
+	url = https://github.com/r-causal/deli
+	registered = false
 [submodule "ggarrow"]
 	path = ggarrow
 	url = https://github.com/teunbrand/ggarrow

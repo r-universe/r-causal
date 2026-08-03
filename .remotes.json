@@ -6,6 +6,18 @@
     "from": "halfmoon"
   },
   {
+    "package": "causalgenerics",
+    "url": "https://github.com/r-causal/causalgenerics",
+    "via": ["propensity"],
+    "from": "propensity"
+  },
+  {
+    "package": "deli",
+    "url": "https://github.com/r-causal/deli",
+    "via": ["propensity"],
+    "from": "propensity"
+  },
+  {
     "package": "ggarrow",
     "url": "https://github.com/teunbrand/ggarrow",
     "via": ["ggdag"],
