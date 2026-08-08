@@ -23,6 +23,11 @@
 [submodule "halfmoon"]
 	path = halfmoon
 	url = https://github.com/r-causal/halfmoon
+[submodule "marginaleffects"]
+	path = marginaleffects
+	url = https://github.com/malcolmbarrett/marginaleffects
+	branch = ipw-support
+	subdir = r
 [submodule "propensity"]
 	path = propensity
 	url = https://github.com/r-causal/propensity
