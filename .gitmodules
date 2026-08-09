@@ -17,6 +17,9 @@
 [submodule "deli"]
 	path = deli
 	url = https://github.com/r-causal/deli
+[submodule "ggarrow"]
+	path = ggarrow
+	url = https://github.com/teunbrand/ggarrow
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/r-causal/ggdag
@@ -40,3 +43,6 @@
 [submodule "tipr"]
 	path = tipr
 	url = https://github.com/r-causal/tipr
+[submodule "touringplans"]
+	path = touringplans
+	url = https://github.com/LucyMcGowan/touringplans
