@@ -31,6 +31,9 @@
 	url = https://github.com/malcolmbarrett/marginaleffects
 	branch = ipw-support
 	subdir = r
+[submodule "positively"]
+	path = positively
+	url = https://github.com/r-causal/positively
 [submodule "propensity"]
 	path = propensity
 	url = https://github.com/r-causal/propensity
